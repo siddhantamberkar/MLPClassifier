@@ -6,3 +6,5 @@ Model supports variable hidden layers, activation functions, L2 regularization, 
 Siddhant Amberkar 
 University of California Berkeley, c/o 2026
 Statistics B.A., Physics B.A.
+
+![Alttext](MLPClassifier/PNG image.png)
